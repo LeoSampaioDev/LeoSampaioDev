@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Em relacionamento sério com a técnologia.<br>📚 Estudante de Ciência da Computação.<br>🎯 Estudando HTML. e CSS <br></p>
+<p align="left">✨ Em relacionamento sério com a tecnologia.<br>📚 Estudante de Ciência da Computação.<br>🎯 Estudando HTML. e CSS <br></p>
 
 ###
 
